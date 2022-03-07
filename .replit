@@ -1,0 +1,1 @@
+run="pytest test_blackjack_score.py "
